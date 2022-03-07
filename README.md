@@ -2,6 +2,8 @@
 
 The Real / Fake News Identification project is a in-class group project at Macalester College Statistical Machine Learning course in 2019 fall. 
 
+![Fake_news_image](https://user-images.githubusercontent.com/94136772/156948498-88e3d455-94c3-45d1-84f4-65d3734afd04.jpg)
+
 ## Description
 
 The project intends to classify the news based on their title and text using logistic, KNN, decision tree, and random forest models. The features for modeling are designed and defined our group baased on titles and texts. We finally figure out that the logistic model can generate the highest cross-validated / out-of-bag accuracy, around 82%. The result is robust with different input features and model regularization. 
