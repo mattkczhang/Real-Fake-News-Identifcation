@@ -11,5 +11,7 @@ The final logistic model can be applied to the real-world by recognizing fake ne
 ## Authors
 
 Kaichong (Matt) Zhang: Macalester Student
+
 Ling Ma: Macalester Student 
+
 Yiming Miao: Macalester Student
