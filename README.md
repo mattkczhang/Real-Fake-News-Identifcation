@@ -1,4 +1,4 @@
-# Real-Fake-News-Identifcation
+# Real Fake News Identifcation
 
 The Real / Fake News Identification project is a in-class group project at Macalester College Statistical Machine Learning course in 2019 fall. 
 
